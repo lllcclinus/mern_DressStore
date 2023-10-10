@@ -11,7 +11,7 @@ type: String,
 trim: true
 },
 price: {
-type: String,
+type: Number,
 trim: true
 },
 published: {
